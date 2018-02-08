@@ -1,4 +1,4 @@
-id,type_object_name,stock_object_issue_price,stock_object_launch_date,stock_object_symbol
+id	type_object_name	stock_object_issue_price	stock_object_launch_date	stock_object_symbol
 b11d76b2-ec82-5e4b-8beb-65fe76703a06	平安银行	40.00	1991-04-03	000001
 62185174-33d9-4298-6499-eab85444cec4	万科A	1.00	1991-01-29	000002
 dead3e94-49da-ad7b-b0a2-d8ca590b7416	PT金田A	10.00	1991-07-03	000003
